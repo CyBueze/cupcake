@@ -3,8 +3,13 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
+  background-image: url('https://www.pexels.com/photo/chocolate-muffins-with-cream-served-on-festive-table-4571115/');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
 
-  background: linear-gradient(rgb(192, 8, 109), rgb(45, 56, 67));
+  /*background: linear-gradient(rgb(192, 8, 109), rgb(45, 56, 67));*/
 }
 
 #noButton {
